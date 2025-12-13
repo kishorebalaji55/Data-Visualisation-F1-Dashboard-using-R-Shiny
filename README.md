@@ -1,12 +1,7 @@
-# Data-Visualisation-F1-Dashboard-using-R-Shiny
-Interactive R Shiny dashboard for Formula 1 telemetry analysis. Features animated championship battles, strategy correlation matrices, and lap-by-lap race traces to visualize 70+ years of F1 history.
-
 # 🏎️ F1 Telemetry Hub: Addressing Complexity
 
 ### [🔴 Live Demo: Click Here to Launch App](LINK_TO_YOUR_SHINYAPPS_IO_HERE)
 
-**Module:** CS7DS4 Data Visualization (Addressing Complexity)  
-**Student:** [Your Name]  
 **Tech Stack:** R, Shiny, Plotly, Tidyverse, bslib
 
 ![Dashboard Preview](<img width="1900" height="1076" alt="image" src="https://github.com/user-attachments/assets/2e587c33-375e-435b-9213-5b6c7009dabf" />)
@@ -76,6 +71,3 @@ The application is divided into four analytical layers, moving from micro-analys
 * **Data Source:** Ergast Developer API (Historical F1 Data)
 * **Visualization Libraries:** Plotly (Interactive charts), ggplot2 (Static base)
 * **Theme:** `bslib` (Cyborg Dark Mode)
-
----
-*This project was created for the CS7DS4 Data Visualization module at Trinity College Dublin.*
