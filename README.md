@@ -5,7 +5,6 @@
 **Tech Stack:** R, Shiny, Plotly, Tidyverse, bslib
 
 ![Dashboard Preview](<img width="1900" height="1076" alt="image" src="https://github.com/user-attachments/assets/2e587c33-375e-435b-9213-5b6c7009dabf" />)
-*(Replace this line with a screenshot of your dashboard once hosted)*
 
 ## 📖 Overview
 Formula 1 is often described as a data problem disguised as a sport. Standard broadcast graphics often focus on the *result* (who won?) rather than the *process* (how did they win?).
@@ -47,7 +46,7 @@ The application is divided into four analytical layers, moving from micro-analys
 ### Setup
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/F1-Telemetry-Hub.git](https://github.com/YOUR_USERNAME/F1-Telemetry-Hub.git)
+    git clone https://github.com/kishorebalaji55/F1-Telemetry-Hub.git
     ```
 2.  **Install dependencies:**
     Open RStudio and run the following command in the console:
