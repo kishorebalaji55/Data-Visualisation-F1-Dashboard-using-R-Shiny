@@ -4,7 +4,8 @@
 
 **Tech Stack:** R, Shiny, Plotly, Tidyverse, bslib
 
-![Dashboard Preview]([<img width="1900" height="1076" alt="image" src="https://github.com/user-attachments/assets/2e587c33-375e-435b-9213-5b6c7009dabf" />](https://github.com/kishorebalaji55/Data-Visualisation-F1-Dashboard-using-R-Shiny/blob/main/f1-dashboard.png))
+![Dashboard Preview]
+([<img width="1900" height="1076" alt="image" src="https://github.com/user-attachments/assets/2e587c33-375e-435b-9213-5b6c7009dabf" />](https://github.com/kishorebalaji55/Data-Visualisation-F1-Dashboard-using-R-Shiny/blob/main/f1-dashboard.png))
 
 ## 📖 Overview
 Formula 1 is often described as a data problem disguised as a sport. Standard broadcast graphics often focus on the *result* (who won?) rather than the *process* (how did they win?).
