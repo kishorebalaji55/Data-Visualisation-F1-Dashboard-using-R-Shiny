@@ -6,12 +6,12 @@ library(shinyWidgets)
 library(bslib)
 
 # loading data
-races <- read_csv("data/races.csv")
-drivers <- read_csv("data/drivers.csv")
-constructors <- read_csv("data/constructors.csv")
-results <- read_csv("data/results.csv")
-lap_times <- read_csv("data/lap_times.csv")
-pit_stops <- read_csv("data/pit_stops.csv")
+races <- read_csv("races.csv")
+drivers <- read_csv("drivers.csv")
+constructors <- read_csv("constructors.csv")
+results <- read_csv("results.csv")
+lap_times <- read_csv("lap_times.csv")
+pit_stops <- read_csv("pit_stops.csv")
 
 # data pre-processing
 race_roster <- results %>%
@@ -328,5 +328,6 @@ server <- function(input, output, session) {
       dark_layout()
   })
 }
+
 
 shinyApp(ui, server)
