@@ -2,6 +2,8 @@
 
 ### [Live Demo: Click Here to Launch App](https://kishorebalajisivaprakash-tcd.shinyapps.io/f1-dashboard/)
 
+### [ YouTube Link ](https://www.youtube.com/watch?v=t_m26rtGJTI&t=6s)
+
 **Tech Stack:** R, Shiny, Plotly, Tidyverse, bslib
 
 ### Dashboard Preview
